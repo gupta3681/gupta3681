@@ -11,9 +11,7 @@
 
 - 👯 I’m looking to collaborate on [Clothes_Selector](https://github.com/gupta3681/clothes_selector)
 
-- ⚡ Fun fact  I am a certified scuba diver !
-
-- 💬 Ask me about **anything**
+- ⚡ Fun fact : I am a certified scuba diver !
 
 - 📫 How to reach me **gupta368@bu.edu**
 
