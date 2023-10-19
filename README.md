@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gupta3681" alt="gupta3681" /></a> </p>
 
-- 🔭 I’m currently working with [VendPark](https://github.com/vendpark)
+- 🔭 I last worked with [VendPark](https://github.com/vendpark) and am currently focussing on finishing my bachelors from Boston University ! 
 
 - 🌱 I’m currently learning **Next.js and improving my backend knowledge**
 
