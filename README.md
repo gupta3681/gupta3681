@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next.js and improving my backend knowledge**
 
-- 👯 I’m looking to collaborate on [Clothes_Selector](https://github.com/gupta3681/clothes_selector)
+- 👯 I’m looking to collaborate on [Vasooli](https://github.com/gupta3681/vasooli)
 
 - ⚡ Fun fact : I am a certified scuba diver !
 
