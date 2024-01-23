@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [Vasooli](https://github.com/gupta3681/vasooli)
 
-- ⚡ Fun fact : I am a certified scuba diver !
+- ⚡ Fun fact : I am a certified scuba  diver !
 
 - 📫 How to reach me **gupta368@bu.edu**
 
